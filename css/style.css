@@ -1,0 +1,101 @@
+.nav1{
+	background-color:black;
+}
+/*div img{
+	margin-left:15px;
+}*/
+.feature{
+	margin-top: 25px;
+	font-size: 28px;
+}
+/* Footer section--------------- */
+#footerSection {
+	background: #000;
+	color: white;
+	padding: 28px 0 44px;
+	margin-top: 20px;
+	border-top: 1px solid #444;
+}
+#footerSection a{
+	color:#ccc; 
+	font-size:11px; 
+	padding:0; 
+	line-height:24px;
+    display:block; }
+#footerSection a:hover{
+	color:#fff;  
+}
+#footerSection a{ 
+	min-width:25px;
+    display:inline; 
+    margin-right:6px; 
+    text-align:center; 
+    line-height:1.5em;
+}
+#footerSection  #socialMedia a:hover{
+	background:none;
+}
+div h5{
+	
+	color:  #62c870 ;
+	font-size:13px;
+}
+*{
+  box-sizing: border-box;
+}
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 24%;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: 200px;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+*{
+  box-sizing: border-box;
+}
+
+.con {
+    position: relative;
+}
+
+.topleft {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-size: 18px;
+    color: white;
+}
+.button4 {
+    background-color: #17a2b8;
+    color: black;
+    border: 2px solid #e7e7e7;
+}
+
+.button4:hover {background-color: white;}
+.button {
+    background-color: ; 
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
